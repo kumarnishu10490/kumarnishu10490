@@ -1,3 +1,5 @@
+![logo](https://github.com/kumarnishu10490/kumarnishu10490/blob/main/coding.png)
+
 <h1 align="center">Hi 👋, I'm Kumar Nishu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
