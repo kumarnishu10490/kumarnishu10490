@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Kumar Nishu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://github.com/user-attachments/assets/7327cb3d-7c9b-4497-8196-fce09b2d7e3a" />
 
+
+
+<img align="right" alt="Coding" width="400"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
 
 
